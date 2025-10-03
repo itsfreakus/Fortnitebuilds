@@ -83,7 +83,7 @@ My Discord server: ??? (Easiest way for you to contact me).
 | 6.01-CL-4424678		| 10-03-18		 | UE4.21-4424678	    | 		https://public.simplyblk.xyz/6.1.1.rar|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://public.simplyblk.xyz/6.02.rar|
 | 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           https://public.simplyblk.xyz/6.2.1.rar|
-| 6.10-CL-4464155       	| 160-16-18      	 | UE4.21-4464155   	    | 		https://public.simplyblk.xyz/6.10.rar|
+| 6.10-CL-4464155       	| 10-16-18      	 | UE4.21-4464155   	    | 		https://public.simplyblk.xyz/6.10.rar|
 | 6.10-CL-4476098       	| 10-16-18      	 | UE4.21-4476098   	    | 		https://public.simplyblk.xyz/6.10.1.rar|
 | 6.10-CL-4480234   	  	| 10-16-18       	 | UE4.21-4480234	    |		https://public.simplyblk.xyz/6.10.2.rar|
 | 6.20-CL-4497486          	| 10-24-18         	 | UE4.21-4497486     	    | 		N/A |
